@@ -10,7 +10,7 @@ We would like you to create a simple Dashboard for Attendance Management. The da
 - A component providing overall statistics in numbers. No graphs required. 
 - 2 simple tables containing information about employees who requested for manual attendance, and for the employees having high temperature. 
 
-Your backend can be anything, and does not have to work. Even static data in code is ok. The icons also need not be exactly the same. You can use whatever you can find easily. 
+An image of a potential UI for dashboard is provided in this repository for reference. You need not implement every detail in the image, though should focus on above features. Your backend can be anything, and does not have to work. Even static data in code is ok. The icons also need not be exactly the same. You can use whatever you can find easily. 
 
 You can use any framework you like, but React will be favourable, as our current product is built using that.
 
