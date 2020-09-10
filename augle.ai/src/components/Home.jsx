@@ -13,7 +13,7 @@ const Home = () => {
 			<CafeDetails />
 			<div className='d-flex justify-content-between'>
 				<h4 className='mt-4 text-success'>EMPLOYEES STATISTICS</h4>
-				<Link to='/Employees' className='mt-4 text-success'>
+				<Link to='/log' className='mt-4 text-success'>
 					ALL
 				</Link>
 			</div>
